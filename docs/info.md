@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project works by moving 3 objects with an specific size meanwhile is a basic shape spaceship that shots a little block that works as an misile
+that collides with the enemy blocks and when both sprints make contact the enemy block disappears and add one point to the top left counter. 
 
 ## How to test
 
-Explain how to use your project
+The way to test in a computer is by using "LEFT ARROW", "RIGHT ARROW" & letter "A" to manipulate the spaceship sprint. The arrows work as an controller for
+the spaceship and the "A" as an input to shot the missile sprint.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+For this game is necessary to have a display to watch the game and 3 inputs that can works as an controller to interact with the spaceship.
