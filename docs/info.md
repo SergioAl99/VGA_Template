@@ -19,4 +19,4 @@ the spaceship and the "A" as an input to shot the missile sprint.
 
 ## External hardware
 
-For this game is necessary to have a display to watch the game and 3 inputs that can works as an controller to interact with the spaceship.
+For this game is necessary to have a display to watch the game and 3 inputs that can works as an controller to interact with the spaceship. 
